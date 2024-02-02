@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    background-color: rgb(206, 203, 203);
+    border-radius: 10px;
+}
+
+
+#title{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+figure{
+    background-color: white;
+    text-align: center;
+}
+
+img{
+    display: block;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin: 10px auto;
+    width: 800px;
+    max-width: 100%;
+}
+
+figcaption{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    display: block;
+    text-align: center;
+}
+
+
+.movie-label{
+    font-weight: bold;
+}
+
+.movie-p{
+    margin-top:0px;
+    margin-right: 20px; 
+}
+
+#tribute-info > p{
+    margin: 0 20px;
+}
+
+ul{
+    list-style:  none;
+}
+
+#quote{
+    margin: auto;
+    padding: 10px;
+}
+
+#pre-mov{
+    padding: 0 20px;
+}
+
+h3{
+    padding: 20px 50px;
+}
+
+h3 a{
+    color: hsl(220, 61%, 45%);
+}
